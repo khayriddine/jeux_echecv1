@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="jeu_d&apos;echec" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/jeu_d&apos;echec" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/jeu_d&apos;echec" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="case.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="case.h" />
+		<Unit filename="deplacement.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="deplacement.h" />
+		<Unit filename="dynamique.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dynamique.h" />
+		<Unit filename="gestion_affichage.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gestion_affichage.h" />
+		<Unit filename="gestion_des_parties.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gestion_des_parties.h" />
+		<Unit filename="initialisation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="initialisation.h" />
+		<Unit filename="jeu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="jeu.h" />
+		<Unit filename="joueur.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="joueur.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.h" />
+		<Unit filename="partie.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="partie.h" />
+		<Unit filename="piece.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="piece.h" />
+		<Unit filename="structures.h" />
+		<Unit filename="verification.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="verification.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

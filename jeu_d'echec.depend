@@ -1,0 +1,522 @@
+# depslib dependency file v1.0
+1481092791 source:c:\users\khayri\documents\c_tutorials\jeu_d'echec\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1481191193 source:c:\users\khayri\documents\c_tutorials\jeu_d'echec\autres_fonctions.c
+	"autres_fonctions.h"
+
+1481191193 c:\users\khayri\documents\c_tutorials\jeu_d'echec\autres_fonctions.h
+	<windows.h>
+
+1481199061 source:c:\users\khayri\documents\c_tutorials\jeu_d'echec\menu.c
+	"menu.h"
+
+1481197912 c:\users\khayri\documents\c_tutorials\jeu_d'echec\menu.h
+	<windows.h>
+	<stdio.h>
+	"autres_fonctions.h"
+	"structures.h"
+	"gestion_des_parties.h"
+
+1481209499 source:c:\users\khayri\documents\c_tutorials\jeu_d'echec\gestion_des_parties.c
+	"gestion_des_parties.h"
+
+1481193505 c:\users\khayri\documents\c_tutorials\jeu_d'echec\gestion_des_parties.h
+	<stdio.h>
+	<stdlib.h>
+	"structures.h"
+	"joueur.h"
+	"partie.h"
+	"init_maj_enregistrement.h"
+	"jeu.h"
+
+1481112975 c:\users\khayri\documents\c_tutorials\jeu_d'echec\structures.h
+
+1481102927 c:\users\khayri\documents\c_tutorials\jeu_d'echec\joueur.h
+	"structures.h"
+
+1481102365 source:c:\users\khayri\documents\c_tutorials\jeu_d'echec\joueur.c
+	"joueur.h"
+
+1481139448 source:c:\users\khayri\documents\c_tutorials\jeu_d'echec\partie.c
+	"partie.h"
+
+1481139448 c:\users\khayri\documents\c_tutorials\jeu_d'echec\partie.h
+	"structures.h"
+
+1481188469 source:c:\users\khayri\documents\c_tutorials\jeu_d'echec\piece.c
+	"piece.h"
+
+1481188469 c:\users\khayri\documents\c_tutorials\jeu_d'echec\piece.h
+	"structures.h"
+	"deplacement.h"
+	"jeu.h"
+
+1481124470 source:c:\users\khayri\documents\c_tutorials\jeu_d'echec\case.c
+	"case.h"
+
+1481124470 c:\users\khayri\documents\c_tutorials\jeu_d'echec\case.h
+	"structures.h"
+
+1481141301 source:c:\users\khayri\documents\c_tutorials\jeu_d'echec\init_maj_enregistrement.c
+	"init_maj_enregistrement.h"
+
+1481106062 c:\users\khayri\documents\c_tutorials\jeu_d'echec\init_maj_enregistrement.h
+	"structures.h"
+	"piece.h"
+	"case.h"
+
+1481159160 c:\users\khayri\documents\c_tutorials\jeu_d'echec\jeu.h
+	<windows.h>
+	"structures.h"
+	"piece.h"
+	"case.h"
+	"joueur.h"
+	"partie.h"
+	"init_maj_enregistrement.h"
+	"autres_fonctions.h"
+
+1481190908 source:c:\users\khayri\documents\c_tutorials\jeu_d'echec\jeu.c
+	"jeu.h"
+
+1481197170 c:\users\khayri\documents\c_tutorials\jeu_d'echec\deplacement.h
+	"structures.h"
+	"piece.h"
+	"jeu.h"
+
+1481197018 source:c:\users\khayri\documents\c_tutorials\jeu_d'echec\deplacement.c
+	"deplacement.h"
+
+1481120870 source:c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\case.c
+	"case.h"
+
+1481120870 c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\case.h
+	"structures.h"
+
+1481822811 c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\structures.h
+
+1481386157 source:c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\init_maj_enregistrement.c
+	"init_maj_enregistrement.h"
+
+1481666181 c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\init_maj_enregistrement.h
+
+1481659776 c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\piece.h
+	"structures.h"
+	"deplacement.h"
+	"jeu.h"
+
+1481657371 c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\deplacement.h
+	"structures.h"
+	"piece.h"
+	"jeu.h"
+
+1481814006 c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\jeu.h
+	<windows.h>
+	"structures.h"
+	"piece.h"
+	"case.h"
+	"joueur.h"
+	"partie.h"
+	"autres_fonctions.h"
+
+1481099327 c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\joueur.h
+	"structures.h"
+
+1481659566 c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\partie.h
+	"structures.h"
+
+1481727450 c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\autres_fonctions.h
+	<windows.h>
+
+1481386157 source:c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\joueur.c
+	"joueur.h"
+
+1481812879 source:c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1481659467 source:c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\partie.c
+	"partie.h"
+
+1481659348 source:c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\piece.c
+	"piece.h"
+
+1481662317 source:c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\autres_fonctions.c
+	"autres_fonctions.h"
+
+1481820342 source:c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\deplacement.c
+	"deplacement.h"
+
+1481813259 source:c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\gestion_des_parties.c
+	"gestion_des_parties.h"
+
+1481658137 c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\gestion_des_parties.h
+	<stdio.h>
+	<stdlib.h>
+	"structures.h"
+	"joueur.h"
+	"partie.h"
+	"init_maj_enregistrement.h"
+	"jeu.h"
+
+1481821424 source:c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\jeu.c
+	"jeu.h"
+
+1481820045 source:c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\menu.c
+	"Menu.h"
+
+1481729105 c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\menu.h
+	<windows.h>
+	<stdio.h>
+	"autres_fonctions.h"
+	"structures.h"
+	"gestion_des_parties.h"
+
+1481666619 source:c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\initialisation.c
+	"initialisation.h"
+
+1481666175 c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\initialisation.h
+	"structures.h"
+	"piece.h"
+	"case.h"
+
+1481819944 source:c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\gestion_affichage.c
+	"gestion_affichage.h"
+
+1481819659 c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\gestion_affichage.h
+	"structures.h"
+	<windows.h>
+
+1481815376 source:c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\verification.c
+	"verification.h"
+
+1481814006 c:\users\nabil\desktop\jeu_dechec\jeu_d'echec\verification.h
+	"structures.h"
+	"jeu.h"
+	"verification.h"
+
+1481120870 source:c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\case.c
+	"case.h"
+
+1481120870 c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\case.h
+	"structures.h"
+
+1481822811 c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\structures.h
+
+1481831070 source:c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\deplacement.c
+	"deplacement.h"
+
+1481657371 c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\deplacement.h
+	"structures.h"
+	"piece.h"
+	"jeu.h"
+
+1481659776 c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\piece.h
+	"structures.h"
+	"deplacement.h"
+	"jeu.h"
+
+1481814006 c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\jeu.h
+	<windows.h>
+	"structures.h"
+	"piece.h"
+	"case.h"
+	"joueur.h"
+	"partie.h"
+	"autres_fonctions.h"
+
+1481099327 c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\joueur.h
+	"structures.h"
+
+1481659566 c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\partie.h
+	"structures.h"
+
+1481727450 c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\autres_fonctions.h
+	<windows.h>
+
+1481831667 source:c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\gestion_affichage.c
+	"gestion_affichage.h"
+
+1481819659 c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\gestion_affichage.h
+	"structures.h"
+	<windows.h>
+
+1481813259 source:c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\gestion_des_parties.c
+	"gestion_des_parties.h"
+
+1481658137 c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\gestion_des_parties.h
+	<stdio.h>
+	<stdlib.h>
+	"structures.h"
+	"joueur.h"
+	"partie.h"
+	"init_maj_enregistrement.h"
+	"jeu.h"
+
+1481666181 c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\init_maj_enregistrement.h
+
+1481666619 source:c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\initialisation.c
+	"initialisation.h"
+
+1481666175 c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\initialisation.h
+	"structures.h"
+	"piece.h"
+	"case.h"
+
+1481831895 source:c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\jeu.c
+	"jeu.h"
+
+1481386157 source:c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\joueur.c
+	"joueur.h"
+
+1481812879 source:c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1481830967 source:c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\menu.c
+	"Menu.h"
+
+1481729105 c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\menu.h
+	<windows.h>
+	<stdio.h>
+	"autres_fonctions.h"
+	"structures.h"
+	"gestion_des_parties.h"
+
+1481659467 source:c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\partie.c
+	"partie.h"
+
+1481659348 source:c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\piece.c
+	"piece.h"
+
+1481815376 source:c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\verification.c
+	"verification.h"
+
+1481814006 c:\users\nabil\desktop\miniprojet_\jeu_dechec\jeu_d'echec\verification.h
+	"structures.h"
+	"jeu.h"
+	"verification.h"
+
+1481124470 source:c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\case.c
+	"case.h"
+
+1481124470 c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\case.h
+	"structures.h"
+
+1481865170 c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\structures.h
+
+1481876097 source:c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\deplacement.c
+	"deplacement.h"
+
+1481867212 c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\deplacement.h
+	"structures.h"
+	"piece.h"
+	"jeu.h"
+	"verification.h"
+
+1481663376 c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\piece.h
+	"structures.h"
+	"deplacement.h"
+	"jeu.h"
+
+1481862264 c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\jeu.h
+	<windows.h>
+	"structures.h"
+	"piece.h"
+	"case.h"
+	"joueur.h"
+	"partie.h"
+	"autres_fonctions.h"
+
+1481102927 c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\joueur.h
+	"structures.h"
+
+1481841700 c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\partie.h
+	"structures.h"
+
+1481731050 c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\autres_fonctions.h
+	<windows.h>
+
+1481835267 source:c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\gestion_affichage.c
+	"gestion_affichage.h"
+
+1481823259 c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\gestion_affichage.h
+	"structures.h"
+	<windows.h>
+
+1481843917 source:c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\gestion_des_parties.c
+	"gestion_des_parties.h"
+
+1481661737 c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\gestion_des_parties.h
+	<stdio.h>
+	<stdlib.h>
+	"structures.h"
+	"joueur.h"
+	"partie.h"
+	"init_maj_enregistrement.h"
+	"jeu.h"
+
+1481669781 c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\init_maj_enregistrement.h
+
+1481670219 source:c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\initialisation.c
+	"initialisation.h"
+
+1481669775 c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\initialisation.h
+	"structures.h"
+	"piece.h"
+	"case.h"
+
+1481875672 source:c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\jeu.c
+	"jeu.h"
+
+1481389757 source:c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\joueur.c
+	"joueur.h"
+
+1481816479 source:c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1481876695 source:c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\menu.c
+	"Menu.h"
+
+1481732705 c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\menu.h
+	<windows.h>
+	<stdio.h>
+	"autres_fonctions.h"
+	"structures.h"
+	"gestion_des_parties.h"
+
+1481841700 source:c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\partie.c
+	"partie.h"
+
+1481662948 source:c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\piece.c
+	"piece.h"
+
+1481875116 source:c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\verification.c
+	"verification.h"
+
+1481817606 c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\verification.h
+	"structures.h"
+	"jeu.h"
+	"verification.h"
+
+1481869462 source:c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\dynamique.c
+	"dynamique.h"
+
+1481860873 c:\users\khayri\downloads\jeu_dechec\jeu_dechec\jeu_d'echec\dynamique.h
+	<stdio.h>
+	<stdlib.h>
+	"structures.h"
+
+1481124470 source:c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\case.c
+	"case.h"
+
+1481124470 c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\case.h
+	"structures.h"
+
+1481865170 c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\structures.h
+
+1481882491 source:c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\deplacement.c
+	"deplacement.h"
+
+1481867212 c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\deplacement.h
+	"structures.h"
+	"piece.h"
+	"jeu.h"
+	"verification.h"
+
+1481663376 c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\piece.h
+	"structures.h"
+	"deplacement.h"
+	"jeu.h"
+
+1481862264 c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\jeu.h
+	<windows.h>
+	"structures.h"
+	"piece.h"
+	"case.h"
+	"joueur.h"
+	"partie.h"
+	"autres_fonctions.h"
+
+1481102927 c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\joueur.h
+	"structures.h"
+
+1481841700 c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\partie.h
+	"structures.h"
+
+1481731050 c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\autres_fonctions.h
+	<windows.h>
+
+1481817606 c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\verification.h
+	"structures.h"
+	"jeu.h"
+	"verification.h"
+
+1481869462 source:c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\dynamique.c
+	"dynamique.h"
+
+1481860873 c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\dynamique.h
+	<stdio.h>
+	<stdlib.h>
+	"structures.h"
+
+1481835267 source:c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\gestion_affichage.c
+	"gestion_affichage.h"
+
+1481823259 c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\gestion_affichage.h
+	"structures.h"
+	<windows.h>
+
+1481843917 source:c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\gestion_des_parties.c
+	"gestion_des_parties.h"
+
+1481661737 c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\gestion_des_parties.h
+	<stdio.h>
+	<stdlib.h>
+	"structures.h"
+	"joueur.h"
+	"partie.h"
+	"init_maj_enregistrement.h"
+	"jeu.h"
+
+1481669781 c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\init_maj_enregistrement.h
+
+1481670219 source:c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\initialisation.c
+	"initialisation.h"
+
+1481669775 c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\initialisation.h
+	"structures.h"
+	"piece.h"
+	"case.h"
+
+1481882672 source:c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\jeu.c
+	"jeu.h"
+
+1481389757 source:c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\joueur.c
+	"joueur.h"
+
+1481816479 source:c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1481876695 source:c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\menu.c
+	"Menu.h"
+
+1481732705 c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\menu.h
+	<windows.h>
+	<stdio.h>
+	"autres_fonctions.h"
+	"structures.h"
+	"gestion_des_parties.h"
+
+1481841700 source:c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\partie.c
+	"partie.h"
+
+1481662948 source:c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\piece.c
+	"piece.h"
+
+1481881287 source:c:\users\khayri\downloads\jeu_dechec_v_dynamique\jeu_dechec\jeu_d'echec\verification.c
+	"verification.h"
+
